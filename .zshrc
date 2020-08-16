@@ -14,4 +14,4 @@ alias ls='lsd --group-dirs=first'
 alias catg='/usr/bin/bat'
 alias cat='/usr/bin/cat'
 alias catnl='bat --paging=never'
-source /home/sml/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
